@@ -2,7 +2,7 @@
 
 Openly accessible, reputable resources that support the biology and health of women: clinical guidance, datasets, open-access research, and open-source software and apps. This is not a femtech directory. Everything here is free to read or has a free access tier, and is linked to an institutional, peer-reviewed or open-source origin.
 
-**Interactive view:** see `index.html` (deploy with GitHub Pages).
+**Interactive view:** see `index.html`.
 
 > This list is for education and research. It is not medical advice. For personal health concerns, talk to a qualified clinician.
 
@@ -140,6 +140,7 @@ Openly accessible, reputable resources that support the biology and health of wo
 - [Periodical](https://search.f-droid.org/?q=Periodical) - Menstrual calendar with fertile-day estimates by the Knaus-Ogino calendar method, on F-Droid (GPL-3.0-or-later). The method is less reliable than modern fertility-awareness methods; treat as a calendar, not contraception.
 - [log28](https://f-droid.org/packages/com.log28/) - No-frills period tracker on F-Droid (LGPL-3.0). Latest F-Droid release is from 2020; check maintenance first.
 - [fertility-test-analyzer](https://github.com/lrq3000/fertility-test-analyzer) - Android app for quantifying ovulation and pregnancy test strips (Apache-2.0).
+- [Mooneva-Cycle-Private-Period-Tracker](https://github.com/aradar46/Mooneva-Cycle-Private-Period-Tracker) - Period tracking app - Free, offline, private, and open source. Android and IOS- no account, no cloud, no ads. GPL-3.0, on-device encryption, zero internet permission. symptom & mood tracking, PIN lock, discrete mode.
 
 ---
 
