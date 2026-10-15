@@ -2,7 +2,7 @@
 
 Openly accessible, reputable resources that support the biology and health of women: clinical guidance, datasets, open-access research, and open-source software and apps. This is not a femtech directory. Everything here is free to read or has a free access tier, and is linked to an institutional, peer-reviewed or open-source origin.
 
-**Interactive view:** see `index.html`.
+**Interactive view:** see [awesome-womens-health-resources](https://mshreyes.github.io/awesome-womens-health-resources/).
 
 > This list is for education and research. It is not medical advice. For personal health concerns, talk to a qualified clinician.
 
