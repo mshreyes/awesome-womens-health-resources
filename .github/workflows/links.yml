@@ -1,0 +1,15 @@
+name: Link check
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  pull_request:
+  workflow_dispatch:
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress --max-retries 2 --accept 200,201,202,204,206,403,429 README.md
+          fail: true
