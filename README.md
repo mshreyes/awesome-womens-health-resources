@@ -33,9 +33,9 @@ Openly accessible, reputable resources that support the biology and health of wo
 - [Office on Women's Health (HHS)](https://womenshealth.gov/) - US federal portal covering the life course: periods, pregnancy, menopause, mental health, violence and screening.
 - [NHS Health A-Z](https://www.nhs.uk/conditions/) - UK National Health Service condition pages with symptoms, treatment and when to seek care.
 - [ACOG Patient Education](https://www.acog.org/womens-health) - American College of Obstetricians and Gynecologists FAQs and patient guides, written by clinicians.
-- [Cochrane Library](https://www.cochranelibrary.com/) - Systematic reviews of interventions. Abstracts and plain-language summaries are free; includes a large pregnancy and childbirth collection.
+- [Cochrane Library](https://www.cochranelibrary.com) - Systematic reviews of interventions. Abstracts and plain-language summaries are free; includes a large pregnancy and childbirth collection.
 - [NICE Guidance](https://www.nice.org.uk/guidance) - UK evidence-based guidelines, including menopause, endometriosis, fertility, antenatal and postnatal care.
-- [WHO Reproductive Health Library](https://srhr.org/rhl/) - WHO-supported evidence summaries and practical guidance on sexual and reproductive health.
+- [WHO Sexual and Reproductive Health and Research (SRH)](https://srhr.org/) - WHO-supported evidence summaries and tools on sexual and reproductive health.
 
 ---
 
